@@ -1758,7 +1758,7 @@ div#preloader {
 }
 
 .footer-logo {
-  padding-bottom: 20px;
+ 
 }
 
 .footer-logo h2 {
@@ -2352,3 +2352,11 @@ span.email-notes {
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
+
+.jipe-logo {
+    width: 200px;
+}
+
+.logo-small {
+    width: 120px;
+}
