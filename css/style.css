@@ -47,7 +47,9 @@ html, body {
 .floatright {
   float: right;
 }
-
+h4{
+    text-transform: uppercase;
+}
 .alignleft {
   float: left;
   margin-right: 15px;
